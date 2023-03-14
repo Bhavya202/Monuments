@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom: 15px;
+    align-items: center;
+    justify-content: center;
+}
+#map {
+    height: 75vh;
+}
+#webTitle {
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+#titleText {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: double underline;
+    align-self: center;
+}
+.container {
+    margin-top: 1em;
+    border: 3px solid rgb(73, 88, 221);
+    border-radius: 25px;
+}
+.image-marker {
+    height: 55px;
+    width: 55px;
+}
